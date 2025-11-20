@@ -37,6 +37,21 @@ entire application. I developed the user interface, integrated the REST API, and
 Zustand. I also handled routing with Next.js and implemented TypeScript for type safety and
 maintainability.
 
+### - [Mebleria](https://roman-panchuk98.github.io/All-possible)
+
+Project description: application for choosing furniture.
+<br>
+Tech stack: HTML, CSS, JS, REST API
+<br>
+Type project: team project
+<br>
+Role: Team Lead/Developer . Set task priorities and managed project timelines to ensure on-time
+delivery, conducted thorough code reviews to maintain coding standards and best practices,
+coordinated and mentored team members while fostering a positive and collaborative work environment,
+monitored overall product quality by verifying design compliance, resolving bugs, and ensuring full
+responsiveness and cross-browser compatibility across devices.
+
+
 ## 🗣️ Languages
 <p> 
  <img src="https://img.shields.io/badge/English-A2-blue?style=flat-square" />
