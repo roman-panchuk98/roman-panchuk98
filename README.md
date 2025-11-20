@@ -14,7 +14,7 @@ Contact me: roman.panchuk98@gmail.com
 
  ## 💻Featured Projects      
  
-### - [Market](https://github.com/Yaroslav-Hoian/Market-2.0)  
+### - [Market](https://yaroslav-hoian.github.io/Market-2.0)  
 
 Project description: application for choosing  electronics and household products.
 <br>
